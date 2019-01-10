@@ -1,5 +1,5 @@
 <?php
-namespace CarlosOCarvalho\Providers;
+namespace Fayne\Providers;
 
 use Storage;
 use League\Flysystem\Filesystem;

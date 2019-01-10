@@ -1,12 +1,12 @@
 {
-    "name": "carlosocarvalho/storage-cloudinary-laravel",
+    "name": "fayne/storage-cloudinary-laravel",
     "license": "MIT",
     "description":"Provider for laravel for Cloudinary",
     "keywords":["laravel 5","cloudinary provider","storage"],
     "authors": [
         {
-            "name": "Carlos O Carvalho",
-            "email": "quenduk@yahoo.com.br"
+            "name": "Fayne Guo",
+            "email": "fayne.guo@gmail.com"
         }
     ],
     "minimum-stability": "stable",
@@ -15,14 +15,14 @@
     },
     "autoload": {
         "psr-4": {
-            "CarlosOCarvalho\\Providers\\": "src/"
+            "Fayne\\Providers\\": "src/"
 
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "CarlosOCarvalho\\Providers\\CloudinaryServiceProvider"
+                "Fayne\\Providers\\CloudinaryServiceProvider"
             ]
         }
     }

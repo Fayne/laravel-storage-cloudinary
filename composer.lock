@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "a3fe3504d618e8ec009cce4f40878724",
-    "content-hash": "1a4546aab6a94c2bb7c15b63e637c8f0",
+    "hash": "29383845287ef07d72d018d31888b0e7",
+    "content-hash": "e152d18cbee140a33655ccd6628fefd5",
     "packages": [
         {
             "name": "carlosocarvalho/flysystem-cloudinary",
