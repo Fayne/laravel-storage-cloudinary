@@ -1,11 +1,10 @@
 <?php
 namespace CarlosOCarvalho\Providers;
 
-use Illuminate\Support\ServiceProvider;
-use League\Flysystem\Filesystem;
 use Storage;
+use League\Flysystem\Filesystem;
+use Illuminate\Support\ServiceProvider;
 use CarlosOCarvalho\Flysystem\Cloudinary\CloudinaryAdapter;
-
 
 class CloudinaryServiceProvider extends ServiceProvider {
 
